@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/kien2/OneDrive/Desktop/Code/vagrant-vms/finance","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
